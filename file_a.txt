@@ -1,3 +1,2 @@
-Hi! This is not fun at all
-
-This is not a great file
+This is not fun at all
+Hi! 
